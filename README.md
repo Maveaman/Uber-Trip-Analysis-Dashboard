@@ -84,4 +84,4 @@ Feel free to explore the project and reach out if you’d like to collaborate or
 This project is licensed under the **MIT License**.
 
 
-Let me know if you want a version customized for a **portfolio site**, **resume bullet point**, or **LinkedIn post**—happy to help with that too!
+**Thank you**
